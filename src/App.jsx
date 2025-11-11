@@ -93,7 +93,7 @@ export default function Portfolio() {
           <div className="card p-6">
             <h3 className="text-xl font-semibold mb-2">About</h3>
             <p className="text-sm text-gray-700">
-              I’m Rethash — a CS student building realtime systems, visual tools, and full-stack apps. I favourite TypeScript, clean architecture, and measurements that matter. I make everything production-ready: tests, CI, and monitoring.
+              I’m Rethash — a full-stack developer who loves building fast, reliable, and user-focused digital products — from real-time observability systems to AI-driven tools. I blend TypeScript, Node.js, Python, and modern React frameworks to turn rough ideas into clean architecture and smooth UX. I’m always experimenting, always learning, and always shipping something new that pushes the limits of what tech can do.
             </p>
             <div className="flex gap-3 mt-4">
               <a className="btn" href="/Resume-Rethash-Reddy.pdf" download>
@@ -151,8 +151,8 @@ function Hero() {
     <section className="bg-white rounded-2xl p-8 shadow-md">
       <div className="md:flex md:items-center md:justify-between">
         <div>
-          <h1 className="text-3xl md:text-4xl font-bold">I build fast, reliable realtime systems & clean frontend UIs.</h1>
-          <p className="mt-3 text-gray-600 max-w-xl">Current focus: proximity-based WebSocket apps, algorithm visualizers, and developer tooling. I ship production-ready code with tests, CI, and monitoring.</p>
+          <h1 className="text-3xl md:text-4xl font-bold">I build stuff.</h1>
+          <p className="mt-3 text-gray-600 max-w-xl">Current focus: proximity-based WebSocket app and developer tooling. I ship production-ready code with tests, CI, and monitoring.</p>
           <div className="mt-4 flex gap-3">
             <a className="btn" href="#projects">View Projects</a>
             <a className="btn-outline" href="/Resume-Rethash-Reddy.pdf" download>
